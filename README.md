@@ -46,8 +46,9 @@ Other systems are under development or clinical trial:
 
 ### What is normal glycemia?
 
-Glycemia level depends on many different factors, like what you eat, what you do (physical activity, sleeping), your temperatuure... In the first 4 hours after eating (postprandial), the glycemia should be between 100-140 mg/dL. More than 4 hours after eating (post absorptive phase), the glycemia should frop between 60-100 mg/dL.
+Glycemia level depends on many different factors, like what you eat, what you do (physical activity, sleeping), your temperatuure... In the first 4 hours after eating (postprandial), the glycemia should be between 100-140 mg/dL. More than 4 hours after eating (post absorptive phase), the glycemia should drop between 60-100 mg/dL.
 
+Diabetic people who are not treated correctly read much higher values, higher that 200 mg/dL in postprandial phase and higher than 140 mg/dL in post absorptive phase.
 
 
 
