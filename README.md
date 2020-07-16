@@ -93,6 +93,6 @@ There is another type of intermediary insuline that's a mix of the fast and slow
 
 <a id="2">[2]</a> [Global statistics on diabetes](https://www.escardio.org/Education/Diabetes-and-CVD/Recommended-Reading/global-statistics-on-diabetes), Accessed on 16-07-2020
 
-<a id="3">[3]</a> Hamdi T. Analyse de l’évolution de la glycémie des patients diabétiques insulinodépendants.
+<a id="3">[3]</a> Hamdi T. Analyse de l’évolution de la glycémie des patients diabétiques insulinodépendants. [[PDF]](https://tel.archives-ouvertes.fr/tel-02494566/document)
 
 <a id="4">[4]</a> [Insulin](https://en.wikipedia.org/wiki/Insulin), Wikipedia, Accessed on 16-07-2020
